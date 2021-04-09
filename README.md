@@ -27,7 +27,7 @@ için kartın üzerine hover edince bir overlay ile sil ve düzenle butonları g
 hale getirilecek.
 
 
-### Teknolojiler
+### Kullanılan Teknolojiler
 
 Front-End |  
 ------------ |
@@ -46,13 +46,17 @@ Formik |
 
 ### İndirilecekler:
 ```npm install react-router-dom```
-br
+<br>
 ```npm install @material-ui/core```
 <br>
 ```npm install @material-ui/icons```
+<br>
 ```npm install @material-ui/lab```
+<br>
 ```npm install formik-material-ui```
+<br>
 ```npm install framer-motion```
+<br>
 ```npm install formik```
 
 #### Sunucuyu başlatmak için:
