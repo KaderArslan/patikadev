@@ -46,10 +46,11 @@ Formik |
 
 ### İndirilecekler:
 ```npm install react-router-dom```
+br
 ```npm install @material-ui/core```
+<br>
 ```npm install @material-ui/icons```
 ```npm install @material-ui/lab```
-```npm install @material-ui/core```
 ```npm install formik-material-ui```
 ```npm install framer-motion```
 ```npm install formik```
