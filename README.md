@@ -1,7 +1,3 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
 ## To Do List
 -------------
 ### WEBSITE : https://gracious-borg-621e3a.netlify.app/
@@ -17,7 +13,7 @@ bulunduruyoruz. Create butonuna her basıldığında en sona eklenecek şekilde 
 bir kart yaratıyoruz.
 #### Bu kartların içinde:
 - [x] Kartın başlığının yazdığı bir text input alanı,
-- [ ] - [x] Bu listenin her elementinde checkbox, text alanı ve sil butonu olacak,
+- [x] Bu listenin her elementinde checkbox, text alanı ve sil butonu olacak,
 - [x] Kartın sağ üstünde de kartı silmek için bir buton olacak.
 
 ### Yapılacaklar
@@ -42,26 +38,27 @@ Material UI |
 Formik |
 
 
+##  Kurulum Talimatları
 
+### proje dosyanızın içinde react projesi oluşturun cd/todolist:
 
-##  Installation and Setup Instructions
+```create react app .```
 
-### Example:
-Clone down this repository. You will need node and npm installed globally on your machine.
+### İndirilecekler:
+```npm install react-router-dom```
+```npm install @material-ui/core```
+```npm install @material-ui/icons```
+```npm install @material-ui/lab```
+```npm install @material-ui/core```
+```npm install formik-material-ui```
+```npm install framer-motion```
+```npm install formik```
 
-### Installation:
-
-```npm install```
-
-#### To Run Test Suite:
-
-```npm test```
-
-#### To Start Server:
+#### Sunucuyu başlatmak için:
 
 ```npm start```
 
-#### To Visit App:
+#### Uygulama burada açılacaktır:
 
 ```localhost:3000```
 
