@@ -2,28 +2,11 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-[İletişim Formuna buradan ulaşabilirsiniz](https://jovial-jennings-0b4b8f.netlify.app)
-
-
 ## To Do List
 -------------
 ### WEBSITE : https://gracious-borg-621e3a.netlify.app/
 
-### What is  Voting ?
-It is a company rating app. We all know sometimes employees not satisfied with their company. At this point, they can check the company stars on this app 
-and they can get some ideas. Current and previous employees can rate that company. We have created a login - register page 
-then users can rate few questions about the companies. 
-
-#### This app has : 
+#### Yapılanlar : 
 - [x] Kullanıcı sayfayı ilk açtığında ismini ve soyismini sorup localStorage'a
 kaydediyoruz. Sonrasında kullanıcıyı ekte görülen ekrana yönlendiriyoruz.
 - [x] Bu ekranın sol üst köşesinde bir profil resmi ikonu ile yanına kullanıcın
@@ -37,23 +20,23 @@ bir kart yaratıyoruz.
 - [x] Kartın sağ üstünde de kartı silmek için bir buton olacak.
 - [x] See last rating results 
 
-
-### Technologies
-
-Front-End | Back-End | Database
------------- | ------------- | -------------
-React.js | Node.js | Mongo DB
-React Router Dom | Express.js
-Material UI | Mongoose |
-Formik |         | 
-Alertify |        | 
-AOS   | 
-I18next  |       | 
-
-### What is Next ?
+### Yapılacaklar
 - [ ] Specific questions by job 
 - [ ] Synchronize with Linkedin 
 - [ ] Company accounts
+
+
+### Teknolojiler
+
+Front-End | Back-End | Database
+------------ | ------------- | -------------
+React.js |  | 
+React Router Dom |
+React Hooks |
+Material UI |
+Formik |         | 
+
+
 
 
 ##  Installation and Setup Instructions
